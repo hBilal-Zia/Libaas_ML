@@ -1,5 +1,5 @@
 # Libaas ML
-The following repository is part of Libaas (Outfit Recommendation App). It contains all the training code, links to dataset and trained models of the project.
+The following repository is part of [Libaas (Outfit Recommendation App)](https://github.com/shoaibbzaman/libaas_app). It contains all the training code, links to dataset and trained models of the project.
 All the models have been trained on multiple datasets using Keras and Tensorflow. The API's are developed using Flask which also handles the retrival of user data from Firebase.
 
 
